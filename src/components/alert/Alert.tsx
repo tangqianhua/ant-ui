@@ -1,9 +1,9 @@
 import React, { useState } from 'react';
 import classnames from 'classnames';
 
-type AlterTypes = 'success' | 'default' | 'warning' | 'error';
+export type AlterTypes = 'success' | 'default' | 'warning' | 'error';
 
-interface AlertProps {
+export interface AlertProps {
   type?: AlterTypes;
   closable?: boolean;
   closeText?: React.ReactNode;

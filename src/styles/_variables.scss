@@ -184,6 +184,11 @@ $alert-font-size-sm: $font-size-base * 0.8 !default;
 $alert-color: $black !default;
 $alter-border-radius: $border-radius !default;
 
+// select
+$select-padding-x: 0.375rem !default;
+$select-padding-y: 0.75rem !default;
+$select-box-shadow: 0 0.5rem 1rem rgba($black, 0.15) !default;
+
 // 按钮
 // 按钮基本属性
 $btn-font-weight: 400;

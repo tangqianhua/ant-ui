@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "outDir": "dist",
+    "module": "esnext",
+    "target": "ES5",
+    "declaration": true,
+    "jsx": "react",
+    "moduleResolution": "node",
+    "allowSyntheticDefaultImports": true,
+    // "declarationDir": "dist/typings"
+  },
+  "include": ["src"],
+  "exclude": ["src/**/*.test.tsx"]
+}
