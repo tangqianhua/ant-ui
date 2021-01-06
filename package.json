@@ -13,7 +13,7 @@
   },
   "homepage": "https://github.com/tangqianhua/ant-ui",
   "dependencies": {
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "classnames": "^2.2.6",
     "node-sass": "^4.13.1",
     "react-scripts": "3.4.1",
